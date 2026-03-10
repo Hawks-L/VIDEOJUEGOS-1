@@ -1,6 +1,4 @@
----
-
-# 🎮 Godot Fundamentals – Proyecto Shooter 2D
+# Godot Fundamentals – Proyecto Shooter 2D
 
 ## Descripción del Proyecto
 
@@ -20,7 +18,7 @@ El proyecto implementa varios conceptos fundamentales del desarrollo de videojue
 
 Este proyecto sirve como una introducción práctica a los **fundamentos del desarrollo de videojuegos en Godot**.
 
----
+
 
 # Arquitectura del Proyecto
 
